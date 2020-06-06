@@ -1,0 +1,64 @@
+
+.nav-link{
+    font-weight: bold;
+}
+
+.box-1 ,.box-2 ,.box-3 ,.box-4 ,.box-5 ,.box-6 ,.box-7 ,.box-8 ,.box-9 ,.box-10 ,.box-11 ,.box-12 ,.box-13 ,.box-14 ,.box-15{
+    height: 300px;
+    width: 200px;
+    background-color:rgb(245, 244, 244);
+    float: left;
+    margin: 30px ;
+ }
+
+ .box-1 h1 ,.box-2 h1 ,.box-3 h1 ,.box-4 h1 ,.box-5 h1 ,.box-6 h1 ,.box-7 h1 ,.box-8 h1 ,.box-9 h1 ,.box-10 h1,.box-11 h1 ,.box-12 h1 ,.box-13 h1 ,.box-14 h1 ,.box-15 h1{
+    font-size: small;
+    font-weight: lighter;
+ }
+ .box-1 h2,.box-2 h2,.box-3 h2,.box-4 h2,.box-5 h2,.box-6 h2,.box-7 h2,.box-8 h2,.box-9 h2,.box-10 h2 ,.box-11 h2 ,.box-12 h2 ,.box-13 h2 ,.box-14 h2 ,.box-15 h2{
+    font-size: large;
+    color: rgb(238, 67, 101);
+ }
+
+.new-arrivel{
+    margin: 0px 0px 0px 45px;
+    font-size: 30px;
+    line-height: 30px;
+}
+.footer {
+    height: 40px;
+    width: 1370px;
+    background-color: rgb(241, 241, 247);
+    float: left;
+    max-width: 100%;
+}
+.footer h1{
+font-size: small;
+font: bold;
+margin: 15px 0px 0px 40px;
+}
+.vv{
+    margin: 20px 0px 0px 40px;
+    height: 300px;
+}
+.vv h6 p{
+    display: inline;
+    font-weight: lighter;
+}
+.vv h6 p{
+    display: inline;
+    font-weight: lighter;
+}
+.email h6 p{
+    display: inline;
+    font-weight: lighter;
+}
+.main{
+    height: 840px;
+    width: 1200px;
+    margin: 0px 0px 0px 20px;
+    max-width: 100%;
+}
+.main h5{
+    font-weight: lighter;
+}
